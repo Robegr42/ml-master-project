@@ -172,3 +172,9 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+# uv files
+.python-version
+uv.lock
+pyproject.toml
